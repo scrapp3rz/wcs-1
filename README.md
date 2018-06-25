@@ -1,2 +1,2 @@
 # wcs
-Promo Biarrtiz Wild Code School
+Promo Biarritz Wild Code School Juin - Septembre 2018
