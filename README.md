@@ -1,8 +1,7 @@
 # Wild Code School
-Exercices pour la session à la Wild Code School de Biarritz 
+Exercices at the Wild Code School -  Biarritz (France)
 
-Promo : Juin - Septembre 2018
+Promo: June - September 2018
 
-Author
-Jessica Lalanne
+Author: Jessica Lalanne
 
